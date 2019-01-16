@@ -1,6 +1,7 @@
 # papka-dlya-rabot
 Для работ и заданий по ЦИФРОВОЙ ГРАМОТНОСТИ
 # ДИЗАЙН КВАРТИР
+
 * недорого
 * стильно
 * модно
@@ -8,5 +9,5 @@
 
 *мы предлагаем уникальные услуга по повешению ковров*
 
-[**Наш вебсайт:**] (https://thequestion.ru/questions/160120/dlya-chego-veshali-kovry-na-stenu-v-sssr)
-![пример работы] (https://goo.gl/images/qoX8qL)
+[**Вебсайт:**](https://thequestion.ru/questions/160120/dlya-chego-veshali-kovry-na-stenu-v-sssr)
+![пример работы](https://goo.gl/images/qoX8qL)
